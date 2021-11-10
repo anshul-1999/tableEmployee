@@ -1,0 +1,5 @@
+name: 'Employee Table'
+type: module
+description: 'User Data'
+version: 1.0
+core: 8.x
